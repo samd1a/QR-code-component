@@ -36,7 +36,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-i learnt how to use github pages xddd
+- I learnt how to setup and utilize github pages to host projects.
+- Learnt how to recreate a design without Figma to help me.
 
 
 ## Author
