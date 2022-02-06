@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/samdia-qr-code-component-XigARcKQf](https://www.frontendmentor.io/solutions/samdia-qr-code-component-XigARcKQf)
 - Live Site URL: [samd1a.github.io/QR-code-component](https://samd1a.github.io/QR-code-component/)
 
 ## My process
